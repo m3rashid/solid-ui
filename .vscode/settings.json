@@ -1,3 +1,6 @@
 {
-  "cSpell.words": ["Flowbite"]
+  "cSpell.words": ["Flowbite"],
+	 "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
 }

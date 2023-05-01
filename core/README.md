@@ -1,4 +1,4 @@
-![Solid Ui Logo](./assets/logo.png)
+![Solid Ui Logo](./assets/solid-ui.png)
 
 <p align="center">
 	A component library for SolidJs. Work is still in progress and is not ready for production use.

@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-turbo": "latest",
+		"eslint-plugin-solid": "latest"
+  },
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}

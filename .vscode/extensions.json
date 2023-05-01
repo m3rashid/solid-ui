@@ -3,7 +3,11 @@
   // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
 
   // List of extensions which should be recommended for users of this workspace.
-  "recommendations": ["bradlc.vscode-tailwindcss", "bernardogualberto.solidjs"],
+  "recommendations": [
+		"bradlc.vscode-tailwindcss",
+		"bernardogualberto.solidjs",
+		"streetsidesoftware.code-spell-checker"
+	],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []
 }

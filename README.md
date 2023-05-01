@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-	Inspiration has been taken from Ant Design and also aimed to create APIs similar to it.
+	Inspiration taken from Ant Design and also aimed to create APIs similar to it.
 </p>
 
 <p align="center">Let the fun begin!</p>

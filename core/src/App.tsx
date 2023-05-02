@@ -1,17 +1,15 @@
 import 'flowbite';
 import type { Component } from 'solid-js';
+import Button from './components/button';
 
 const App: Component = () => {
+  const sayHello = () => window.alert('hello');
+
   return (
     <div>
-      <a
-        class='text-4xl text-blue-600'
-        href='https://github.com/solidjs/solid'
-        target='_blank'
-        rel='noopener noreferrer'
-      >
-        Learn Solid, Tailwind CSS and Flowbite
-      </a>
+      <Button type='primary' onclick={sayHello}>
+        Hello
+      </Button>
     </div>
   );
 };
